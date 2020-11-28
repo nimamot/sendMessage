@@ -1,4 +1,4 @@
-An easy way to send 552 of any message text message to anyone via Apple Messages.
+An easy way to send 552 of any text messages to anyone via Apple Messages.
 Written in AppleScript.
 
 to run the script...
